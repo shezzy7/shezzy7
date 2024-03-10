@@ -14,7 +14,7 @@
 - 📫 How to reach me **jamshahzad72242@gmail.com**
 
 - ⚡ Fun fact **I think i am introvert**
-- 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shezzy7" alt="shezzy7" /></a> </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
