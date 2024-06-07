@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shezzy7&label=Profile%20views&color=0e75b6&style=flat" alt="shezzy7" /> </p>
 
-- 🔭 I’m currently working on **Front-end**
+- 🔭 Student of **BS Computer Science**
 
-- 🌱 I’m currently learning **MERN Stack + DSA**
+- 🌱 Learning **MERN Stack + DSA**
 
-- 👯 I’m looking to collaborate on **DSA**
+- 👯 Looking to collaborate on **DSA**
 
 - 💬 Ask me about **Coding**
 
 - 📫 How to reach me **jamshahzad72242@gmail.com**
 
-- ⚡ Fun fact **I think i am introvert**
+- ⚡ Fun fact **Introvert**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shezzy7" alt="shezzy7" /></a> </p>
 <hr>
