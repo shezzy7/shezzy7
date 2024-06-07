@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Coding**
 
-- 📫 How to reach me **jamshahzad72242@gmail.com**
+- 📫 Reach me **jamshahzad72242@gmail.com**
 
 - ⚡ Fun fact **Introvert**
 
