@@ -7,7 +7,7 @@
 
 - 🌱 Learning **MERN Stack + DSA**
 
-- 👯 Looking to collaborate on **DSA**
+- 👯 Looking to collaborate on **AI**
 
 - 💬 Ask me about **Coding**
 
