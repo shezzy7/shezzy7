@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahzad Hussain</h1>
-<h3 align="center">Learning</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shezzy7&label=Profile%20views&color=0e75b6&style=flat" alt="shezzy7" /> </p>
 
