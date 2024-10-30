@@ -20,7 +20,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahzad-hussain-57672725b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzad-hussain-57672725b" height="30" width="40" /></a>
-
+<div align="center">
+ 
+  ![LeetCode Stats](https://leetcode.card.workers.dev/shezzy?theme=auto&font=baloo&extension=null)
+ 
+  </div>
 <a href="https://fb.com/shahzad hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahzad hussain" height="30" width="40" /></a>
 <a href="https://instagram.com/shahzad_hussain_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzad_hussain_1" height="30" width="40" /></a>
 </p>
