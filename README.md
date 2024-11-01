@@ -21,9 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shahzad-hussain-57672725b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzad-hussain-57672725b" height="30" width="40" /></a>
 
-<a href="https://fb.com/shahzad hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahzad hussain" height="30" width="40" /></a>
-<a href="https://instagram.com/shahzad_hussain_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzad_hussain_1" height="30" width="40" /></a>
-</p>
+
 <div align="center">
  <h2>Leetcode Stats</h2>
   <img src="https://leetcode.card.workers.dev/shezzy?theme=highcontrast&font=baloo&extension=null" alt="LeetCode Streak" />
