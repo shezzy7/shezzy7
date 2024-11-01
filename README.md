@@ -28,7 +28,7 @@
   </div>
 <div align="center">
  <h2>Github Stats</h2>
- <img src="https://streak-stats.demolab.com/?user=shezzy7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=shezzy7&theme=default&hide_border=true" alt="GitHub Streak" />
 
 
 </div>
