@@ -30,7 +30,8 @@
  
   </div>
 <div align="center">
- ![GitHub Streak](https://streak-stats.demolab.com/?user=shezzy7&theme=dark&hide_border=true)
+ <img src="https://streak-stats.demolab.com/?user=shezzy7&theme=dark&hide_border=true" alt="GitHub Streak" />
+
 
 </div>
 <h3 align="left">Languages and Tools:</h3>
