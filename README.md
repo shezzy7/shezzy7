@@ -26,7 +26,7 @@
 </p>
 <div align="center">
  <h2>Leetcode Stats</h2>
-  <img src="https://leetcode.card.workers.dev/shezzy?theme=auto&font=baloo&extension=null" alt="LeetCode Streak" />
+  <img src="https://leetcode.card.workers.dev/shezzy?theme=highcontrast&font=baloo&extension=null" alt="LeetCode Streak" />
   </div>
 <div align="center">
  <h2>Github Stats</h2>
