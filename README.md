@@ -25,11 +25,12 @@
 <a href="https://instagram.com/shahzad_hussain_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzad_hussain_1" height="30" width="40" /></a>
 </p>
 <div align="center">
- 
+ <h2>Leetcode Stats</h2>
   ![LeetCode Stats](https://leetcode.card.workers.dev/shezzy?theme=auto&font=baloo&extension=null)
  
   </div>
 <div align="center">
+ <h2>Github Stats</h2>
  <img src="https://streak-stats.demolab.com/?user=shezzy7&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 
