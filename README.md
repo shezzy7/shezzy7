@@ -26,8 +26,7 @@
 </p>
 <div align="center">
  <h2>Leetcode Stats</h2>
-  ![LeetCode Stats](https://leetcode.card.workers.dev/shezzy?theme=auto&font=baloo&extension=null)
- 
+  <img src="https://streak-stats.demolab.com/?user=shezzy7&theme=dark&hide_border=tru](https://leetcode.card.workers.dev/shezzy?theme=auto&font=baloo&extension=null" alt="LeetCode Streak" />
   </div>
 <div align="center">
  <h2>Github Stats</h2>
