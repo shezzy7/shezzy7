@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shezzy7&label=Profile%20views&color=0e75b6&style=flat" alt="shezzy7" /> </p>
 
-- 🔭 Student of **BS Computer Science**
+- 🔭 Student of **Computer Science at GCUF**
 
-- 🌱 Learning **MERN Stack + DSA**
+- 🌱 **MERN Stack Developer + Problem solver at leetcode**
 
 - 👯 Looking to collaborate on **AI**
-
-- 💬 Ask me about **Coding**
 
 - 📫 Reach me **jamshahzad72242@gmail.com**
 
