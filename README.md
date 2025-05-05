@@ -27,21 +27,17 @@
 
 ---
 
-### 🔥 LeetCode Stats
-<div align="center">
-  <img src="https://leetcode.card.workers.dev/shezzy?theme=default&font=baloo&extension=null" alt="LeetCode Stats" />
-</div>
 
----
 
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=shezzy7&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
 
 ### 🛠️ Languages and Tools
+[![LangChain](https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png)](https://github.com/langchain-ai/langchain)
+
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank">
