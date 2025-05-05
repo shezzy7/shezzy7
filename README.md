@@ -4,11 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=shezzy7&label=Profile%20views&color=0e75b6&style=flat" alt="shezzy7" />
 </p>
 
-- 🎓 **Computer Science Student at GCUF**  
+- 🎓 **BS Computer Science**  
 - 💻 **MERN Stack Developer + LeetCode Problem Solver**  
 - 🤝 Looking to collaborate on **AI Projects**  
 - 📫 Reach me at **jamshahzad72242@gmail.com**  
-- 😄 Fun fact: **I'm an introvert**  
 
 ---
 
