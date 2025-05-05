@@ -36,11 +36,10 @@
 
 
 ### 🛠️ Languages and Tools
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="docs/static/img/logo-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="docs/static/img/logo-light.svg">
-  <img alt="LangChain Logo" src="docs/static/img/logo-dark.svg" width="80%">
-</picture>
+<a href="https://github.com/langchain-ai/langchain" target="_blank">
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" alt="LangChain" width="120" height="40"/>
+</a>
+
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank">
