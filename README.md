@@ -7,7 +7,7 @@
 - 🎓 **BS Computer Science**  
 - 💻 **MERN Stack Developer + LeetCode Problem Solver**  
 - 🤝 Looking to collaborate on **AI Projects**  
-- 📫 Reach me at **jamshahzad72242@gmail.com**  
+- 📫 Reach me at **shahzadhussain72242@gmail.com**  
 
 ---
 
