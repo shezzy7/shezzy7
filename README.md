@@ -37,8 +37,9 @@
 
 ### 🛠️ Languages and Tools
 <a href="https://github.com/langchain-ai/langchain" target="_blank">
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" alt="LangChain" width="120" height="40"/>
+  <img src="assets/langchain-logo.svg" alt="LangChain" width="120" height="40"/>
 </a>
+
 
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
